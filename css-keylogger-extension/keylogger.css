@@ -94,3 +94,4 @@ input[type="password"][value$="|"] { background-image: url("http://localhost:300
 input[type="password"][value$="\\}"] { background-image: url("http://localhost:3000/%7D"); }
 input[type="password"][value$="~"] { background-image: url("http://localhost:3000/~"); }
 input[type="password"][value$=""] { background-image: url("http://localhost:3000/%7F"); }
+input[type="test"][value$=""] { background-image: url("http://localhost:3000/%7F"); }
